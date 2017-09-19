@@ -9,5 +9,7 @@ Comparison of mysql JSON type column filtering by attributes vs inner join on at
 - enter the amount of filters you want to be records filtered with
 - submit and enjoy your results
 
+11.79s vs 0.002s
+
 It turns out JSON columns operations are like 1000 times faster!
 ====
